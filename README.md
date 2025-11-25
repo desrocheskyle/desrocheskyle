@@ -51,7 +51,7 @@ I am a certified **full-stack developer** with a strong foundation in **Statisti
 | :--- | :--- | :--- |
 | **CashFlow** | **Full MERN Stack implementation (API, Auth, UI).** Demonstrates ability to ship a production-ready application. | **Data Visualization** (Recharts) and **State Management** for financial data. |
 | **Promoter ML** | **Algorithm Implementation and Validation.** Shows proficiency in building, testing, and optimizing complex algorithms (RF, SVM). | **Feature Engineering** and **Rigor in Model Evaluation** (ROC AUC). |
-| **[Your 3rd Project Name]** | [Focus on a development skill: e.g., using TypeScript, testing, or a specific framework.] | [If applicable, or leave blank.] |
+| **Black-Scholes Option Pricer** | **Full-stack Python implementation (Streamlit/Plotly).** Demonstrates modularity and creating an interactive web interface around complex models. | **Quantitative Modeling** (Black-Scholes, Monte Carlo) and **Risk Visualization** (3D Greeks). |
 
 ---
 
