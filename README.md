@@ -55,11 +55,9 @@ I am a certified **full-stack developer** with a strong foundation in **Statisti
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=desrocheskyle&show_icons=true&theme=radical&count_private=true)
-
----
-
 ## 📫 Connect with Me
+* [Email](mailto:kyledesroches5@gmail.com)
 * [LinkedIn](www.linkedin.com/in/kyle-desroches)
-* [Email](mailto:kyledesroches5@gmail.com)srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
