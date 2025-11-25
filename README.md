@@ -9,7 +9,7 @@ I am a certified **full-stack developer** with a strong foundation in **Statisti
 ## 🚀 About Me
 * 🎓  I am a recent graduate from UC Santa Barbara with a B.S. in Statistics & Data Science
 * 🛠️  Passionate about full-stack development, AI/ML, and data analysis
-* 🤝  I’m looking for **Software Engineering roles** and **Data Scientist/Analysis roles**.
+* 🤝  I’m looking for **Software Engineering roles** and **Data Scientist/Analyst roles**.
 * 🌍  I'm based in San Diego, CA and open to relocation
 * ✉️  You can contact me at [kyledesroches5@gmail.com](mailto:kyledesroches5@gmail.com)
 * 🚀  I'm currently working on [IV Marketplace](http://na)
