@@ -40,8 +40,8 @@ I am a certified **full-stack developer** with a strong foundation in **Statisti
 
 | Institution / Program | Degree / Certification | Focus Areas |
 | :--- | :--- | :--- |
-| **UC Santa Barbara (UCSB)** | **B.S. Statistics & Data Science** | Statistical Modeling, Algorithm Analysis, Data Structures (Analytical Foundation) |
-| **IBM** | **Full Stack Developer Professional Certification** | **MERN Stack, API Architecture, Cloud Deployment (SWE Focus)** |
+| **UC Santa Barbara** | **B.S. Statistics & Data Science** | Statistical Modeling, Algorithm Analysis, Data Structures (Analytical Foundation) |
+| **IBM Certification** | **Full Stack Developer Professional Certification** | **MERN Stack, API Architecture, Cloud Deployment (SWE Focus)** |
 
 ---
 
